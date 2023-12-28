@@ -1,0 +1,442 @@
+﻿26.04.2021 15:16:56 - Программа начинает работать!
+26.04.2021 15:16:58 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:16:59 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:16:59 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:17:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:17:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:17:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:17:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:17:01 - Ошибка при попытке раскраски файла: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Xiaomi\source\repos\whole_net\Result.docx'.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DrawDocument.WordTransformer.UnionDocuments(List`1 fileParts, String resultPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 83
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 96
+26.04.2021 15:17:01 - Программа закончила работать.
+26.04.2021 15:17:26 - Программа начинает работать!
+26.04.2021 15:17:29 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:17:30 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:17:30 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:17:30 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:17:30 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:17:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:17:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:17:31 - Ошибка при попытке раскраски файла: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Xiaomi\source\repos\whole_net\Result.docx'.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DrawDocument.WordTransformer.UnionDocuments(List`1 fileParts, String resultPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 83
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 96
+26.04.2021 15:17:31 - Программа закончила работать.
+26.04.2021 15:19:36 - Программа начинает работать!
+26.04.2021 15:19:38 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:19:39 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:19:39 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:19:40 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:19:40 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:19:40 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:19:40 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:19:41 - Программа закончила работать.
+26.04.2021 15:24:11 - Программа начинает работать!
+26.04.2021 15:24:13 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:24:14 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:24:14 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:24:15 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:24:15 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:24:15 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:24:15 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:24:15 - Программа закончила работать.
+26.04.2021 15:26:14 - Программа начинает работать!
+26.04.2021 15:26:14 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 253
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 23
+26.04.2021 15:26:15 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 15:26:15 - Программа закончила работать.
+26.04.2021 15:26:26 - Программа начинает работать!
+26.04.2021 15:27:22 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:27:23 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:27:23 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:27:24 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:27:24 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:27:24 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:27:24 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:27:24 - Программа закончила работать.
+26.04.2021 15:28:08 - Программа начинает работать!
+26.04.2021 15:28:10 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:28:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:28:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:28:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:28:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:28:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:28:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:28:13 - Программа закончила работать.
+26.04.2021 15:29:39 - Программа начинает работать!
+26.04.2021 15:29:40 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 253
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 23
+26.04.2021 15:29:40 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 15:29:40 - Программа закончила работать.
+26.04.2021 15:30:04 - Программа начинает работать!
+26.04.2021 15:30:04 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 253
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 23
+26.04.2021 15:30:05 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 15:30:05 - Программа закончила работать.
+26.04.2021 15:30:18 - Программа начинает работать!
+26.04.2021 15:30:18 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 253
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 23
+26.04.2021 15:30:18 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 15:30:18 - Программа закончила работать.
+26.04.2021 15:30:58 - Программа начинает работать!
+26.04.2021 15:34:18 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 15:34:20 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:34:20 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 15:34:20 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:34:20 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 15:34:21 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 15:34:21 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 15:34:21 - Программа закончила работать.
+26.04.2021 15:35:34 - Программа начинает работать!
+26.04.2021 15:36:11 - Программа начинает работать!
+26.04.2021 15:47:51 - Программа начинает работать!
+26.04.2021 15:57:34 - Программа начинает работать!
+26.04.2021 15:58:48 - Программа начинает работать!
+26.04.2021 16:00:50 - Программа начинает работать!
+26.04.2021 16:03:43 - Программа начинает работать!
+26.04.2021 16:07:27 - Программа начинает работать!
+26.04.2021 16:10:25 - Программа начинает работать!
+26.04.2021 16:12:52 - Программа начинает работать!
+26.04.2021 16:19:55 - Программа начинает работать!
+26.04.2021 16:34:59 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 16:35:00 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 16:35:00 - Программа закончила работать.
+26.04.2021 16:35:04 - Программа начинает работать!
+26.04.2021 16:35:12 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx' because it is being used by another process.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DrawDocument.WordTransformer.CreateDocCopy(String inputPath, String outputPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 273
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 37
+26.04.2021 16:35:14 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:35:14 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net.docx cтроку из json:
+'мать'
+26.04.2021 16:35:14 - Программа закончила работать.
+26.04.2021 16:35:25 - Программа начинает работать!
+26.04.2021 16:44:34 - Программа начинает работать!
+26.04.2021 16:45:09 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 16:45:10 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:45:10 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 16:45:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:45:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 16:45:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:45:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 16:45:11 - Программа закончила работать.
+26.04.2021 16:47:38 - Программа начинает работать!
+26.04.2021 16:47:40 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 16:47:41 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:47:41 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 16:47:42 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:47:42 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 16:47:42 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:47:42 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 16:47:42 - Программа закончила работать.
+26.04.2021 16:56:52 - Программа начинает работать!
+26.04.2021 16:56:52 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 259
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 23
+26.04.2021 16:56:53 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 16:56:53 - Программа закончила работать.
+26.04.2021 16:57:00 - Программа начинает работать!
+26.04.2021 16:57:02 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 16:57:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:57:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 16:57:03 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:57:03 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 16:57:03 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 16:57:03 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 16:59:54 - Программа закончила работать.
+26.04.2021 17:02:01 - Программа начинает работать!
+26.04.2021 17:02:02 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx' because it is being used by another process.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DrawDocument.WordTransformer.CreateDocCopy(String inputPath, String outputPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 278
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 37
+26.04.2021 17:02:03 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:02:03 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net.docx cтроку из json:
+'мать'
+26.04.2021 17:02:04 - Программа закончила работать.
+26.04.2021 17:02:16 - Программа начинает работать!
+26.04.2021 17:02:18 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 17:02:19 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:02:19 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 17:02:19 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:02:19 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 17:02:19 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:02:19 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 17:02:23 - Ошибка при попытке раскраски файла: System.Xml.XmlException: 'AltChunkId1' ID conflicts with the ID of an existing relationship for the specified source.
+   at System.IO.Packaging.InternalRelationshipCollection.ValidateUniqueRelationshipId(String id)
+   at System.IO.Packaging.InternalRelationshipCollection.Add(Uri targetUri, TargetMode targetMode, String relationshipType, String id, Boolean parsing)
+   at System.IO.Packaging.InternalRelationshipCollection.Add(Uri targetUri, TargetMode targetMode, String relationshipType, String id)
+   at System.IO.Packaging.PackagePart.CreateRelationship(Uri targetUri, TargetMode targetMode, String relationshipType, String id)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPart.CreateRelationship(Uri targetUri, TargetMode targetMode, String relationshipType, String id)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPartContainer.AttachChild(OpenXmlPart part, String rId)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPartContainer.InitPart[T](T newPart, String contentType, String id)
+   at DocumentFormat.OpenXml.Packaging.MainDocumentPart.AddAlternativeFormatImportPart(String contentType, String id)
+   at DocumentFormat.OpenXml.Packaging.MainDocumentPart.AddAlternativeFormatImportPart(AlternativeFormatImportPartType partType, String id)
+   at DrawDocument.WordTransformer.UnionDocuments(List`1 fileParts, String resultPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 96
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 96
+26.04.2021 17:02:23 - Программа закончила работать.
+26.04.2021 17:03:48 - Программа начинает работать!
+26.04.2021 17:03:49 - Разделить файл C:\Users\Xiaomi\source\repos\whole_net.docx на части не удалось: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 258
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 23
+26.04.2021 17:03:49 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at Spire.Doc.Document.ᜀ(String A_0, FileFormat& A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName, FileFormat fileFormat, String password)
+   at Spire.Doc.Document.ᜀ(String A_0, String A_1)
+   at Spire.Doc.Document.LoadFromFile(String fileName)
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 72
+26.04.2021 17:03:49 - Программа закончила работать.
+26.04.2021 17:04:19 - Программа начинает работать!
+26.04.2021 17:04:21 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 17:04:22 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:04:22 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 17:04:22 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:04:22 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 17:04:23 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:04:23 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 17:04:23 - Ошибка при попытке раскраски файла: System.Xml.XmlException: 'AltChunkId1' ID conflicts with the ID of an existing relationship for the specified source.
+   at System.IO.Packaging.InternalRelationshipCollection.ValidateUniqueRelationshipId(String id)
+   at System.IO.Packaging.InternalRelationshipCollection.Add(Uri targetUri, TargetMode targetMode, String relationshipType, String id, Boolean parsing)
+   at System.IO.Packaging.InternalRelationshipCollection.Add(Uri targetUri, TargetMode targetMode, String relationshipType, String id)
+   at System.IO.Packaging.PackagePart.CreateRelationship(Uri targetUri, TargetMode targetMode, String relationshipType, String id)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPart.CreateRelationship(Uri targetUri, TargetMode targetMode, String relationshipType, String id)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPartContainer.AttachChild(OpenXmlPart part, String rId)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPartContainer.InitPart[T](T newPart, String contentType, String id)
+   at DocumentFormat.OpenXml.Packaging.MainDocumentPart.AddAlternativeFormatImportPart(String contentType, String id)
+   at DocumentFormat.OpenXml.Packaging.MainDocumentPart.AddAlternativeFormatImportPart(AlternativeFormatImportPartType partType, String id)
+   at DrawDocument.WordTransformer.UnionDocuments(List`1 fileParts, String resultPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 96
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 96
+26.04.2021 17:04:23 - Программа закончила работать.
+26.04.2021 17:10:08 - Программа начинает работать!
+26.04.2021 17:10:10 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 17:10:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:10:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 17:10:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:10:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 17:10:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:10:12 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 17:10:12 - Программа закончила работать.
+26.04.2021 17:10:57 - Программа начинает работать!
+26.04.2021 17:10:59 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 17:11:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:11:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 17:11:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:11:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 17:11:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:11:00 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 17:11:01 - Программа закончила работать.
+26.04.2021 17:12:54 - Программа начинает работать!
+26.04.2021 17:12:56 - Файл C:\Users\Xiaomi\source\repos\whole_net.docx разделён на 3 части
+26.04.2021 17:12:57 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:12:57 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 17:12:58 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:12:58 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 17:12:58 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 17:12:58 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 17:12:58 - Программа закончила работать.

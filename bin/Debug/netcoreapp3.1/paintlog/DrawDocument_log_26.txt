@@ -1,0 +1,92 @@
+﻿26.04.2021 14:20:45 - Программа начинает работать!
+26.04.2021 14:20:56 - Ошибка при десериализации json-файла: Newtonsoft.Json.JsonReaderException: Bad JSON escape sequence: \U. Path '[0].InputPath', line 1, position 20.
+   at Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote) in /_/Src/Newtonsoft.Json/JsonTextReader.cs:line 1265
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType) in /_/Src/Newtonsoft.Json/JsonTextReader.cs:line 637
+   at Newtonsoft.Json.JsonTextReader.ReadAsString() in /_/Src/Newtonsoft.Json/JsonTextReader.cs:line 490
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter) in /_/Src/Newtonsoft.Json/JsonReader.cs:line 1221
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 2337
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 502
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 309
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 1682
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 886
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 311
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent) in /_/Src/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs:line 173
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType) in /_/Src/Newtonsoft.Json/JsonSerializer.cs:line 904
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType) in /_/Src/Newtonsoft.Json/JsonSerializer.cs:line 883
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 831
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 787
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 720
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 42
+26.04.2021 14:20:56 - Программа закончила работать.
+26.04.2021 14:21:43 - Программа начинает работать!
+26.04.2021 14:21:44 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 236
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+26.04.2021 14:21:44 - Программа закончила работать.
+26.04.2021 14:22:36 - Программа начинает работать!
+26.04.2021 14:22:37 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\whole_net.docx' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode packageFileMode, FileAccess packageFileAccess, FileShare share)
+   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 236
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+26.04.2021 14:22:37 - Программа закончила работать.
+26.04.2021 14:23:03 - Программа начинает работать!
+26.04.2021 14:23:10 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:23:10 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 14:23:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:23:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 14:23:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:23:11 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 14:23:11 - Программа закончила работать.
+26.04.2021 14:25:27 - Программа начинает работать!
+26.04.2021 14:25:30 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:25:30 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 14:25:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:25:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 14:25:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:25:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 14:25:32 - Программа закончила работать.
+26.04.2021 14:27:41 - Программа начинает работать!
+26.04.2021 14:27:45 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:27:45 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp0.docx cтроку из json:
+'мать'
+26.04.2021 14:27:45 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:27:45 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+26.04.2021 14:27:46 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+26.04.2021 14:27:46 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+26.04.2021 14:27:46 - Ошибка при попытке раскраски файла: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Xiaomi\source\repos\whole_net\Result.docx'.
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DrawDocument.WordTransformer.UnionDocuments(List`1 fileParts, String resultPath) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 74
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 85
+26.04.2021 14:27:46 - Программа закончила работать.

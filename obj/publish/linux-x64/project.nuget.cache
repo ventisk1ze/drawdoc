@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xStvcXL8qn7NWUavoJPPO2FJLrIOaz6olTAP5mYu2j1UTfNt8gBtet5Wu4+iSO4Rij1Sg1F4fKEpe5wtfoBS2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xiaomi\\source\\repos\\DrawDocument\\DrawDocument.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\freespire.office\\4.3.1\\freespire.office.4.3.1.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.7\\microsoft.netcore.app.runtime.linux-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.7\\microsoft.netcore.app.host.linux-x64.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

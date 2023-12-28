@@ -1,0 +1,185 @@
+﻿23.04.2021 16:10:17 - Программа начинает работать!
+23.04.2021 16:11:06 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos\DrawDocument\Zametki_k_matlogike.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 189
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:11:07 - Программа закончила работать.
+23.04.2021 16:13:01 - Программа начинает работать!
+23.04.2021 16:13:24 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 189
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:13:24 - Программа закончила работать.
+23.04.2021 16:15:08 - Программа начинает работать!
+23.04.2021 16:15:13 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 189
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:15:13 - Программа закончила работать.
+23.04.2021 16:15:19 - Программа начинает работать!
+23.04.2021 16:15:46 - Программа начинает работать!
+23.04.2021 16:16:43 - Программа начинает работать!
+23.04.2021 16:19:17 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:19:25 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx cтроку из json:
+'мать'
+23.04.2021 16:19:43 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:19:43 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx cтроку из json:
+'мать'
+23.04.2021 16:19:47 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:19:47 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx cтроку из json:
+'мать'
+23.04.2021 16:20:12 - Программа закончила работать.
+23.04.2021 16:24:46 - Программа начинает работать!
+23.04.2021 16:24:49 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:24:49 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'мать'
+23.04.2021 16:24:50 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:24:50 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+23.04.2021 16:24:50 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:24:50 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+23.04.2021 16:25:28 - Программа начинает работать!
+23.04.2021 16:25:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:25:31 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'мать'
+23.04.2021 16:25:32 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:25:32 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+23.04.2021 16:25:33 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:25:33 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+23.04.2021 16:25:36 - Программа закончила работать.
+23.04.2021 16:28:01 - Программа начинает работать!
+23.04.2021 16:28:04 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:28:04 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'мать'
+23.04.2021 16:28:04 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:28:04 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+23.04.2021 16:28:05 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:28:05 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+23.04.2021 16:37:39 - Программа начинает работать!
+23.04.2021 16:37:42 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1.docx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at System.IO.File.Delete(String path)
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 53
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 49
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:37:42 - Программа закончила работать.
+23.04.2021 16:38:03 - Программа начинает работать!
+23.04.2021 16:38:05 - Ошибка при попытке раскраски файла: System.IO.IOException: The process cannot access the file 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1.docx' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at System.IO.File.Delete(String path)
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 53
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 49
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:38:05 - Программа закончила работать.
+23.04.2021 16:38:27 - Программа начинает работать!
+23.04.2021 16:38:42 - Программа начинает работать!
+23.04.2021 16:39:55 - Программа начинает работать!
+23.04.2021 16:39:58 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:39:58 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0.docx cтроку из json:
+'мать'
+23.04.2021 16:39:59 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:39:59 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp1.docx cтроку из json:
+'мать'
+23.04.2021 16:39:59 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:39:59 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp1_tmp2.docx cтроку из json:
+'мать'
+23.04.2021 16:45:05 - Программа начинает работать!
+23.04.2021 16:45:05 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 195
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:45:05 - Программа закончила работать.
+23.04.2021 16:45:22 - Программа начинает работать!
+23.04.2021 16:45:35 - Программа начинает работать!
+23.04.2021 16:45:36 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 195
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:45:37 - Программа закончила работать.
+23.04.2021 16:45:48 - Программа начинает работать!
+23.04.2021 16:45:49 - Ошибка при попытке раскраски файла: System.IO.FileNotFoundException: Could not find document
+File name: 'C:\Users\Xiaomi\source\repos\DrawDocument\whole_net.docx'
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.WordprocessingDocument.Open(String path, Boolean isEditable)
+   at DrawDocument.WordTransformer.GetParagraphsCount(String path) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 195
+   at DrawDocument.WordTransformer.SplitDocument(String pathMainDoc, List`1 fileParts) in C:\Users\Xiaomi\source\repos\DrawDocument\WordTransformer.cs:line 21
+   at DrawDocument.Program.Main(String[] args) in C:\Users\Xiaomi\source\repos\DrawDocument\Program.cs:line 56
+23.04.2021 16:45:49 - Программа закончила работать.
+23.04.2021 16:46:01 - Программа начинает работать!
+23.04.2021 16:46:39 - Программа начинает работать!
+23.04.2021 16:46:43 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp0.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:46:43 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp0.docx cтроку из json:
+'мать'
+23.04.2021 16:46:44 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp1.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:46:44 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp1.docx cтроку из json:
+'мать'
+23.04.2021 16:46:44 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp2.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:46:44 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp2.docx cтроку из json:
+'мать'
+23.04.2021 16:46:44 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp3.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:46:44 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp3.docx cтроку из json:
+'мать'
+23.04.2021 16:47:13 - Программа закончила работать.
+23.04.2021 16:47:57 - Программа начинает работать!
+23.04.2021 16:48:01 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp0.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:48:01 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp0.docx cтроку из json:
+'мать'
+23.04.2021 16:48:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp1.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:48:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp0_tmp1.docx cтроку из json:
+'мать'
+23.04.2021 16:48:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp2.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:48:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp2.docx cтроку из json:
+'мать'
+23.04.2021 16:48:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp3.docx cтроку из json:
+'алилуйя aaa'
+23.04.2021 16:48:02 - Не удалось найти в файле C:\Users\Xiaomi\source\repos\DrawDocument\whole_net_tmp2_tmp3.docx cтроку из json:
+'мать'
+23.04.2021 16:49:33 - Программа закончила работать.

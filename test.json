@@ -1,0 +1,11 @@
+[{"InputPath": "C:\\Users\\Xiaomi\\source\\repos\\whole_net.docx",
+  "Sentences": [
+    {
+      "Text": "W_Completeren aanvraag",
+      "Color": "Red"
+    },
+    {
+      "Text": "CANCELLED",
+      "Color": "Green"
+    }
+  ],"OutputPath": "C:\\Users\\Xiaomi\\source\\repos\\Result.docx"}]
